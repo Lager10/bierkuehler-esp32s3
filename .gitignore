@@ -1,0 +1,16 @@
+.pio/
+.vscode/
+.idea/
+*.bin
+*.elf
+*.map
+.env
+.env.*
+secrets.h
+credentials.h
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+Thumbs.db
